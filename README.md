@@ -29,12 +29,12 @@ At a high level, the data comes in from different network components (Cisco wire
 
 ## `<p align="center">` Resources: `</p>`
 
-Cisco SPACES offers two primary APIs: REST APIs and the Firehose API, both documented in the [Cisco SPACES API Guide](https://www.cisco.com/c/dam/en/us/td/docs/wireless/cisco-dna-spaces/partner-app/partner-firehose-api/Cisco_DNA_Spaces_API_Guide.pdf) and
-[Cisco Spaces API Documentation](https://partners.dnaspaces.eu/docs/v1/basic/index.html#!c-dnas-partners-overview.html). Participants are encouraged to explore both options and choose the one that best aligns with their use case's requirements.
-
-- **Firehose API**: This provides a continuous stream of real-time data from Cisco SPACES. It is advantageous for applications requiring up-to-the-minute information and a broader, continuous flow of data [Cisco DNA Spces Partner Firehose API Events Fora Standard Partners](https://www.cisco.com/c/en/us/td/docs/wireless/cisco-dna-spaces/partner-app/partner-firehose-api/std.html#firehose_api_v1.EventsStreamRequest).
+Cisco SPACES offers two primary APIs: REST APIs and the Firehose API, both documented in the [Cisco SPACES API Guide](https://www.cisco.com/c/dam/en/us/td/docs/wireless/cisco-dna-spaces/partner-app/partner-firehose-api/Cisco_DNA_Spaces_API_Guide.pdf), [Cisco Spaces API Documentation](https://partners.dnaspaces.eu/docs/v1/basic/index.html#!c-dnas-partners-overview.html) and [Cisco DNA Spces Partner Firehose API Events Fora Standard Partners](https://www.cisco.com/c/en/us/td/docs/wireless/cisco-dna-spaces/partner-app/partner-firehose-api/std.html#firehose_api_v1.EventsStreamRequest). 
+- **Firehose API**: This provides a continuous stream of real-time data from Cisco SPACES. It is advantageous for applications requiring up-to-the-minute information and a broader, continuous flow of data.
 
 - **REST APIs**: In addition to the Firehose API, Cisco SPACES continues to also have some areas where REST APIs can be used. These APIs allow for specific, targeted data retrieval.
+
+Participants are encouraged to explore the Firehose API for their use case as it offers more flexibility. To get an idea of how to use the Firehose API, participants can have a look at this [Code example](https://github.com/SimonLight001/DNASFirehose_MongoDB_Handler).
 
 ## `<p align="center">` Judging Criteria: `</p>`
 
