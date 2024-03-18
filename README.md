@@ -55,5 +55,5 @@ Participants are encouraged to explore the Firehose API for their use case as it
 ## Prize - the winning team members will each receive:
 
 - 1 each: B&O Cisco 950 True Wireless In-Ear. USB-A Cable – Black ![alt text](https://www.cisco.com/c/dam/en/us/products/collateral/collaboration-endpoints/headsets/bang-olufsen-950-ds.docx/_jcr_content/renditions/bang-olufsen-950-ds_0.jpg)
-- 1 each: Cisco Spaces Goody Bag
-- Meeting with Cisco SPACES Bisness Unit to present the Use-Case
+- 1 each: Cisco Goody Bag
+- Meeting with Cisco to present the Use-Case
