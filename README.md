@@ -50,7 +50,7 @@ Participants are encouraged to explore the Firehose API for their use case as it
 
 ## Point of Contact:
 
-Join our [Webex Space](https://eurl.io/#W5utnhKwO) to get in touch with us directly if you have any questions.
+Join our [Webex Space](https://eurl.io/#W5utnhKwO) to get in touch with us directly if you have any questions. Please note that by joining our Webex Space, your full name and email will be visible to other participants. 
 
 - Stefan Leemann, Head of Networking Experiences Cisco Switzerland
 - Anna Summerauer, Solution Engineer Wireless Cisco Switzerland
@@ -62,5 +62,5 @@ Join our [Webex Space](https://eurl.io/#W5utnhKwO) to get in touch with us direc
 - B&O Cisco 950 True Wireless In-Ear. USB-A Cable – Black
 - Cisco Goody Bag
 - Meeting&Lunch with Cisco to present the Use-Case
-  
+
 <img src="https://www.cisco.com/c/dam/en/us/products/collateral/collaboration-endpoints/headsets/bang-olufsen-950-ds.docx/_jcr_content/renditions/bang-olufsen-950-ds_0.jpg" width="500" />
