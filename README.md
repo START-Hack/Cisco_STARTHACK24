@@ -22,12 +22,14 @@ The Target users of this solution are global companies and can include possibly 
 - Real estate if it is floor heat maps
 - IT/OT if it’s asset tracking
 
+## Deep Dive Slides:
+
 ## Further Information:
 
 ![alt text](https://www.cisco.com/c/dam/en/us/products/collateral/wireless/dna-spaces/datasheet-c78-741786.docx/_jcr_content/renditions/datasheet-c78-741786_0.png)
 At a high level, the data comes in from different network components (Cisco wireless LAN Controllers and Access Points, Catalyst switches, Webex devices, Meraki networks) and is fed into the Cisco SPACES cloud platform where it will be processed and consumed by different applications. For example, in case of Access Points, we can track the location end users that are connected to those Access Points. In addition, IoT data can also be leveraged coming from IoT Gateways residing on Cisco Access Points or Switches. Through APIs, this data can be accessed to develop innovative solutions, leveraging real-time information for various use-cases.
 
-## Resources:
+## Cisco Spaces APIs:
 
 Cisco SPACES offers two primary APIs: REST APIs and the Firehose API, both documented in the [Cisco SPACES API Guide](https://www.cisco.com/c/dam/en/us/td/docs/wireless/cisco-dna-spaces/partner-app/partner-firehose-api/Cisco_DNA_Spaces_API_Guide.pdf), [Cisco Spaces API Documentation](https://partners.dnaspaces.eu/docs/v1/basic/index.html#!c-dnas-partners-overview.html) and [Cisco DNA Spces Partner Firehose API Events Fora Standard Partners](https://www.cisco.com/c/en/us/td/docs/wireless/cisco-dna-spaces/partner-app/partner-firehose-api/std.html#firehose_api_v1.EventsStreamRequest).
 
