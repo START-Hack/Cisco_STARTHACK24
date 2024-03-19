@@ -27,6 +27,7 @@ The Target users of this solution are global companies and can include possibly 
 ## Further Information:
 
 ![alt text](https://www.cisco.com/c/dam/en/us/products/collateral/wireless/dna-spaces/datasheet-c78-741786.docx/_jcr_content/renditions/datasheet-c78-741786_0.png)
+
 At a high level, the data comes in from different network components (Cisco wireless LAN Controllers and Access Points, Catalyst switches, Webex devices, Meraki networks) and is fed into the Cisco SPACES cloud platform where it will be processed and consumed by different applications. For example, in case of Access Points, we can track the location end users that are connected to those Access Points. In addition, IoT data can also be leveraged coming from IoT Gateways residing on Cisco Access Points or Switches. Through APIs, this data can be accessed to develop innovative solutions, leveraging real-time information for various use-cases.
 
 ## Cisco Spaces APIs:
@@ -61,4 +62,5 @@ Join our [Webex Space](https://eurl.io/#W5utnhKwO) to get in touch with us direc
 - B&O Cisco 950 True Wireless In-Ear. USB-A Cable – Black
 - Cisco Goody Bag
 - Meeting&Lunch with Cisco to present the Use-Case
-  <img src="https://www.cisco.com/c/dam/en/us/products/collateral/collaboration-endpoints/headsets/bang-olufsen-950-ds.docx/_jcr_content/renditions/bang-olufsen-950-ds_0.jpg" width="500" />
+  
+<img src="https://www.cisco.com/c/dam/en/us/products/collateral/collaboration-endpoints/headsets/bang-olufsen-950-ds.docx/_jcr_content/renditions/bang-olufsen-950-ds_0.jpg" width="500" />
