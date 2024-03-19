@@ -55,6 +55,7 @@ Join our [Webex Space]( https://eurl.io/#W5utnhKwO) to get in touch with us dire
 
 ## Prize - the winning team members will each receive:
 
-- B&O Cisco 950 True Wireless In-Ear. USB-A Cable – Black ![alt text](https://www.cisco.com/c/dam/en/us/products/collateral/collaboration-endpoints/headsets/bang-olufsen-950-ds.docx/_jcr_content/renditions/bang-olufsen-950-ds_0.jpg)
+- B&O Cisco 950 True Wireless In-Ear. USB-A Cable – Black
 - Cisco Goody Bag
 - Meeting&Lunch with Cisco to present the Use-Case
+![alt text](https://www.cisco.com/c/dam/en/us/products/collateral/collaboration-endpoints/headsets/bang-olufsen-950-ds.docx/_jcr_content/renditions/bang-olufsen-950-ds_0.jpg)
