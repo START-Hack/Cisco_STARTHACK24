@@ -46,11 +46,12 @@ Participants are encouraged to explore the Firehose API for their use case as it
 - Presentation: Sell the use case and show the prototype, communication of the developed solution (20%)
 
 ## Point of Contact:
+Join our [Webex Space]( https://eurl.io/#W5utnhKwO) to get in touch with us directly if you have any questions.
 
-- Stefan Leemann, Head of Networking Experiences at Cisco Switzerland
+- Stefan Leemann, Head of Networking Experiences Cisco Switzerland
 - Anna Summerauer, Solution Engineer Wireless Cisco Switzerland
 - Tina Lang, Solution Engineer Switching Cisco Switzerland
-- Simon Light, Technical Solutions Specialist, Wireless Cisco UK (remote)
+- Simon Light, Solutions Engineer Wireless Cisco UK (remote)
 
 ## Prize - the winning team members will each receive:
 
