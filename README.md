@@ -37,7 +37,7 @@ Cisco SPACES offers two primary APIs: REST APIs and the Firehose API, both docum
 - **Firehose API**: This provides a continuous stream of real-time data from Cisco SPACES. It is advantageous for applications requiring up-to-the-minute information and a broader, continuous flow of data.
 - **REST APIs**: In addition to the Firehose API, Cisco SPACES continues to also have some areas where REST APIs can be used. These APIs allow for specific, targeted data retrieval.
 
-Participants are encouraged to explore the Firehose API for their use case as it offers more flexibility. To get an idea of how to use the Firehose API, participants can have a look at this [Code example](https://github.com/SimonLight001/DNASFirehose_MongoDB_Handler).
+Participants are encouraged to explore the Firehose API for their use case as it offers more flexibility. To get an idea of how to use the Firehose API, participants can have a look the [index.py](index.py) code example. Each participating group receives an API token, which is requested when the app is executed. The script then opens an http session and iterates through each incoming event. To track the event stream, it writes every event to the[logs.json](logs.json) in readible format.
 
 ## Judging Criteria:
 
