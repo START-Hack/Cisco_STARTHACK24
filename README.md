@@ -67,7 +67,7 @@ elif event["partnerTenantId"] == "Simulation-Workspaces":
 ## Point of Contact:
 
 Join our [Webex Space](https://eurl.io/#W5utnhKwO) to get in touch with us directly if you have any questions. Please note that by joining our Webex Space, your full name and email will be visible to other participants.
-If you don't have a webex account. please sign up for a [FREE Webex account](https://signup.webex.com/sign-up)
+If you don't have a webex account, please sign up for a [FREE Webex account](https://signup.webex.com/sign-up)
 
 - Stefan Leemann, Head of Networking Experiences Cisco Switzerland
 - Anna Summerauer, Solution Engineer Wireless Cisco Switzerland
