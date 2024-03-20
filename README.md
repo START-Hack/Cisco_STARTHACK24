@@ -43,7 +43,8 @@ Participants are encouraged to explore the Firehose API for their use case as it
 
 ## Data:
 
-The data set which is provided are simulated data and covers two different scenarios: Workspace and Retail. Based on the use-use case, the data can be filtered for the specific scenario:
+
+The data provided is simulated data covering two different scenarios: Workspace and Retail. Based on the use case, the data can be filtered for the respective scenario:
 
 ```python
 if event["partnerTenantId"] == "Simulation-Retail":
