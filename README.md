@@ -54,6 +54,7 @@ elif event["partnerTenantId"] == "Simulation-Workspaces":
 # To use the Workspace Scenario 
 
 ```
+On the Firehose API, data related to multiple technologies are sent on a single stream. It is recommended to choose only desired events so that you can limit the amount of data streamed for your application. In the API documention the different [Event Types](https://partners.dnaspaces.eu/docs/v1/basic/index.html#!c-supported-events.html) are listed. 
 
 ## Judging Criteria:
 
@@ -66,8 +67,8 @@ elif event["partnerTenantId"] == "Simulation-Workspaces":
 
 ## Point of Contact:
 
-Join our [Webex Space](https://eurl.io/#W5utnhKwO) to get in touch with us directly if you have any questions. Please note that by joining our Webex Space, your full name and email will be visible to other participants.
-If you don't have a webex account, please sign up for a [FREE Webex account](https://signup.webex.com/sign-up)
+Join our [Webex Space](https://eurl.io/#W5utnhKwO) to get in touch with us directly if you have any questions. Please note that by joining our Webex Space, your full name and email will be visible to other participants. 
+If you don't have a webex account, please sign up for a [FREE Webex account](https://signup.webex.com/sign-up).
 
 - Stefan Leemann, Head of Networking Experiences Cisco Switzerland
 - Anna Summerauer, Solution Engineer Wireless Cisco Switzerland
