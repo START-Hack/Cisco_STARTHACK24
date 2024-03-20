@@ -23,6 +23,7 @@ The Target users of this solution are global companies and can include possibly 
 - IT/OT if it’s asset tracking
 
 ## Deep Dive Slides:
+[Deep Dive Slides](Cisco_StartHack24.pdf)
 
 ## Further Information:
 
