@@ -23,6 +23,7 @@ The Target users of this solution are global companies and can include possibly 
 - IT/OT if it’s asset tracking
 
 ## Deep Dive Slides:
+
 [Deep Dive Slides](Cisco_StartHack24.pdf)
 
 ## Further Information:
@@ -40,6 +41,19 @@ Cisco SPACES offers two primary APIs: REST APIs and the Firehose API, both docum
 
 Participants are encouraged to explore the Firehose API for their use case as it offers more flexibility. To gain insight into utilizing the Firehose API, participants can have a look the [index.py](index.py) code example. Each participating group receives an API token, which is requested when the app is executed. The script then opens an http session and iterates through each incoming event. To track the event stream, it writes every event to the [logs.json](logs.json) in readible format.
 
+## Data:
+
+The data set which is provided are simulated data and covers two different scenarios: Workspace and Retail. Based on the use-use case, the data can be filtered for the specific scenario:
+
+```python
+if event["partnerTenantId"] == "Simulation-Retail":
+# To use the Retail Scenario 
+
+elif event["partnerTenantId"] == "Simulation-Workspaces":
+# To use the Workspace Scenario 
+
+```
+
 ## Judging Criteria:
 
 - Complexity & Technical sophistication: Usage of Cisco SPACES API’s, SDK and Cisco technologies (10%)
@@ -51,7 +65,7 @@ Participants are encouraged to explore the Firehose API for their use case as it
 
 ## Point of Contact:
 
-Join our [Webex Space](https://eurl.io/#W5utnhKwO) to get in touch with us directly if you have any questions. Please note that by joining our Webex Space, your full name and email will be visible to other participants. 
+Join our [Webex Space](https://eurl.io/#W5utnhKwO) to get in touch with us directly if you have any questions. Please note that by joining our Webex Space, your full name and email will be visible to other participants.
 
 - Stefan Leemann, Head of Networking Experiences Cisco Switzerland
 - Anna Summerauer, Solution Engineer Wireless Cisco Switzerland
